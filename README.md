@@ -1,11 +1,10 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+Meme Piece DAO
 
-### **Welcome 👋**
-To get started with this project, clone this repo and follow these commands:
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
+Build Instructions:
+npm install
+npm start
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+
+Background:
+Meme piece dao is a fun side project I worked on following the tutorial project from buildspace. The point of the DAO is to build a community around people that want to share One Piece memes. As of now when I user connects their Metamask wallet and clicks to join they receive a meme piece NFT signifying that they are members of the DAO. Once they are a member they are taken to the member page where they can view, vote on, and submit proposals to benefit the DAO community. Additionally, by being a part of the community members are periodically given Nakama tokens which in turn provides more tenured members more voting power.
